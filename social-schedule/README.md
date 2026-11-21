@@ -14,9 +14,9 @@ Each item goes to both:
 
 ## Files
 
-- `schedule.csv`: one row per item: `id, day, slot, type, time_et, time_utc, title, media_url, caption_instagram, caption_facebook`.
+- `schedule.csv`: one row per item: `id, day, slot, type, time_et, time_utc, title, media_url, caption_instagram, caption_facebook, media_url_alt`.
 - `posted.csv`: log of what has been published: `id, platform, posted_at_utc, result`.
-- Media are served from this public repo through `https://raw.githubusercontent.com/zebester7/xpm-posters/main/...`.
+- Media are served from this public repo. Videos use jsDelivr (`media_url`, served as video/mp4); `media_url_alt` is the raw GitHub link for the same file.
 
 ## Runbook (followed by the scheduled task)
 
@@ -27,6 +27,6 @@ Each item goes to both:
    - **Instagram, photo:** Instagram for Business › Publish Photo(s) (`media` = [media_url], `caption` = caption_instagram, same account).
    - **Facebook, video:** Facebook Pages › Create Page Video (`page` = 937535929440088, `source` = media_url, `title` = title, `description` = caption_facebook).
    - **Facebook, photo:** Facebook Pages › Create Page Photo (`page` = 937535929440088, `source` = [media_url], `message` = caption_facebook).
-4. Append one line per platform to `posted.csv` (`ok` or `error: <message>`), commit and push. Never post the same id + platform twice. Retry a failed call once at most.
+4. Append one line per platform to `posted.csv` (`ok` or `error: <message>`), commit and push. Never post the same id + platform twice. Retry a failed call once at most; for a failed media fetch, the retry uses `media_url_alt`.
 
 To pause posting, pause the scheduled task, or add a line `id,all,manual,hold` to `posted.csv` for each item to hold.

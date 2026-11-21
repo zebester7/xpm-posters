@@ -1,4 +1,4 @@
-id,day,slot,type,time_et,time_utc,title,media_url,caption_instagram,caption_facebook
+id,day,slot,type,time_et,time_utc,title,media_url,caption_instagram,caption_facebook,media_url_alt
 D01-post,1,post,photo,2026-11-22 07:45 EST,2026-11-22T12:45Z,We are opening small-group SAT classes for US students,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_01.jpg,"XPM Tutors is opening online SAT classes for students in the United States.
 
 The model is simple. Every group has a maximum of five students. Each group meets live for two hours every Saturday and every Sunday. We teach Digital SAT Math and Reading and Writing topic by topic, and every student gets 24-hour WhatsApp support between classes.
@@ -19,8 +19,8 @@ If your child is preparing for the SAT this year, or you know a family that is, 
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D01-math,1,math,video,2026-11-22 15:45 EST,2026-11-22T20:45Z,SAT Math Tip #01: Use the built-in Desmos,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-01-use-the-built-in-desmos.mp4,"The SAT gives you a graphing calculator, and most students waste it.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_01.jpg
+D01-math,1,math,video,2026-11-22 15:45 EST,2026-11-22T20:45Z,SAT Math Tip #01: Use the built-in Desmos,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-01-use-the-built-in-desmos.mp4,"The SAT gives you a graphing calculator, and most students waste it.
 
 1. Desmos is built in
 2. Graph both sides
@@ -44,8 +44,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D01-english,1,english,video,2026-11-22 19:45 EST,2026-11-23T00:45Z,SAT English Tip #01: Read the question first,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-01-read-the-question-first.mp4,"Stop reading the passage first on the SAT. Seriously.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-01-use-the-built-in-desmos.mp4
+D01-english,1,english,video,2026-11-22 19:45 EST,2026-11-23T00:45Z,SAT English Tip #01: Read the question first,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-01-read-the-question-first.mp4,"Stop reading the passage first on the SAT. Seriously.
 
 1. One passage = one question. Read the question first.
 2. Know what you're hunting for
@@ -69,7 +69,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-01-read-the-question-first.mp4
 D02-post,2,post,photo,2026-11-23 07:45 EST,2026-11-23T12:45Z,Why we cap every SAT group at five students,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_02.jpg,"People ask why our SAT groups stop at five students.
 
 Because five is the largest group where a tutor can still track every student's mistakes, session by session. Beyond that, attention spreads thin and quieter students stop asking questions.
@@ -90,8 +90,8 @@ It is the middle ground between expensive private tutoring and crowded classes.
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D02-math,2,math,video,2026-11-23 15:45 EST,2026-11-23T20:45Z,SAT Math Tip #02: Backsolving,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-02-backsolving.mp4,"Can't solve it? Let the answer choices do the work.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_02.jpg
+D02-math,2,math,video,2026-11-23 15:45 EST,2026-11-23T20:45Z,SAT Math Tip #02: Backsolving,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-02-backsolving.mp4,"Can't solve it? Let the answer choices do the work.
 
 1. Plug in the answer choices
 2. Start in the middle
@@ -115,8 +115,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D02-english,2,english,video,2026-11-23 19:45 EST,2026-11-24T00:45Z,SAT English Tip #02: Transition questions,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-02-transition-questions.mp4,"Transition questions are free points, if you know this trick.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-02-backsolving.mp4
+D02-english,2,english,video,2026-11-23 19:45 EST,2026-11-24T00:45Z,SAT English Tip #02: Transition questions,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-02-transition-questions.mp4,"Transition questions are free points, if you know this trick.
 
 1. Cover the choices. Compare the two sentences.
 2. What's the relationship?
@@ -140,7 +140,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-02-transition-questions.mp4
 D03-post,3,post,photo,2026-11-24 07:45 EST,2026-11-24T12:45Z,The Digital SAT in 60 seconds,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_03.jpg,"Many parents still picture the paper SAT they took. The test has changed.
 
 The Digital SAT is taken on a laptop or tablet through the College Board's Bluebook app. It takes about 2 hours and 14 minutes. Reading and Writing has 54 questions in 64 minutes. Math has 44 questions in 70 minutes. Scores still run from 400 to 1600.
@@ -161,8 +161,8 @@ Understanding the format is the first step in preparing for it well.
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D03-math,3,math,video,2026-11-24 15:45 EST,2026-11-24T20:45Z,SAT Math Tip #03: Picking numbers,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-03-picking-numbers.mp4,"Variables in every answer choice? Turn them into numbers.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_03.jpg
+D03-math,3,math,video,2026-11-24 15:45 EST,2026-11-24T20:45Z,SAT Math Tip #03: Picking numbers,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-03-picking-numbers.mp4,"Variables in every answer choice? Turn them into numbers.
 
 1. Pick an easy number: x = 2
 2. Solve with your number
@@ -186,8 +186,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D03-english,3,english,video,2026-11-24 19:45 EST,2026-11-25T00:45Z,SAT English Tip #03: The semicolon test,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-03-the-semicolon-test.mp4,"Here's the easiest way to check a semicolon on the SAT.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-03-picking-numbers.mp4
+D03-english,3,english,video,2026-11-24 19:45 EST,2026-11-25T00:45Z,SAT English Tip #03: The semicolon test,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-03-the-semicolon-test.mp4,"Here's the easiest way to check a semicolon on the SAT.
 
 1. Semicolon = period. Both sides must be complete sentences.
 2. Swap it for a period
@@ -211,7 +211,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-03-the-semicolon-test.mp4
 D04-post,4,post,photo,2026-11-25 07:45 EST,2026-11-25T12:45Z,Test requirements are coming back at top colleges,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_04.jpg,"For a few years, test-optional admissions made many families wonder whether the SAT still mattered.
 
 A number of highly selective colleges now require SAT or ACT scores again, including Harvard, Yale, Brown, Dartmouth, MIT, Stanford and Georgetown. Most US colleges remain test-optional, but at many of them a strong score can still strengthen an application or support merit scholarships.
@@ -228,8 +228,8 @@ Policies change, so always check each college's admissions website. But if your 
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D04-math,4,math,video,2026-11-25 15:45 EST,2026-11-25T20:45Z,SAT Math Tip #04: The reference sheet,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-04-the-reference-sheet.mp4,"You don't have to memorize these SAT formulas.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_04.jpg
+D04-math,4,math,video,2026-11-25 15:45 EST,2026-11-25T20:45Z,SAT Math Tip #04: The reference sheet,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-04-the-reference-sheet.mp4,"You don't have to memorize these SAT formulas.
 
 1. They're on the reference sheet
 2. Also on there:
@@ -253,8 +253,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D04-english,4,english,video,2026-11-25 19:45 EST,2026-11-26T00:45Z,SAT English Tip #04: Colon rules,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-04-colon-rules.mp4,"Most students use colons wrong, and the SAT knows it.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-04-the-reference-sheet.mp4
+D04-english,4,english,video,2026-11-25 19:45 EST,2026-11-26T00:45Z,SAT English Tip #04: Colon rules,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-04-colon-rules.mp4,"Most students use colons wrong, and the SAT knows it.
 
 1. Before the colon: a complete sentence
 2. After the colon: a list or explanation
@@ -278,7 +278,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-04-colon-rules.mp4
 D05-post,5,post,photo,2026-11-26 07:45 EST,2026-11-26T12:45Z,Live SAT classes for about $12.50 an hour,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_05.jpg,"Quality SAT preparation is often priced out of reach.
 
 Our classes run two hours every Saturday and two hours every Sunday. That is at least 16 hours of live teaching a month, in a group of no more than five students, for $200. It works out to about $12.50 an hour or less, and it includes 24-hour WhatsApp support between sessions.
@@ -295,8 +295,8 @@ We kept the price at this level deliberately. Good teaching should not depend on
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D05-math,5,math,video,2026-11-26 15:45 EST,2026-11-26T20:45Z,SAT Math Tip #05: Reading linear models,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-05-reading-linear-models.mp4,"Linear models are all over the SAT. Here's how to read them instantly.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_05.jpg
+D05-math,5,math,video,2026-11-26 15:45 EST,2026-11-26T20:45Z,SAT Math Tip #05: Reading linear models,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-05-reading-linear-models.mp4,"Linear models are all over the SAT. Here's how to read them instantly.
 
 1. Cost of x hours
 2. Slope = rate → $15 per hour
@@ -320,8 +320,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D05-english,5,english,video,2026-11-26 19:45 EST,2026-11-27T00:45Z,SAT English Tip #05: Comma splices,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-05-comma-splices.mp4,"This tiny comma mistake shows up on the SAT all the time.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-05-reading-linear-models.mp4
+D05-english,5,english,video,2026-11-26 19:45 EST,2026-11-27T00:45Z,SAT English Tip #05: Comma splices,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-05-comma-splices.mp4,"This tiny comma mistake shows up on the SAT all the time.
 
 1. Comma splice = 2 sentences + just a comma
 2. Three ways to fix it
@@ -345,7 +345,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-05-comma-splices.mp4
 D06-post,6,post,photo,2026-11-27 07:45 EST,2026-11-27T12:45Z,How the adaptive Digital SAT works,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_06.jpg,"The Digital SAT is a multistage adaptive test, and that changes how students should approach it.
 
 Each section is split into two modules. Performance in the first module determines whether the second module is easier or harder. The harder second module is where the highest scores become possible.
@@ -366,8 +366,8 @@ We train students to treat module 1 with care rather than speed.
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D06-math,6,math,video,2026-11-27 15:45 EST,2026-11-27T20:45Z,SAT Math Tip #06: No solution vs. infinite solutions,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-06-no-solution-vs-infinite-solutions.mp4,"No solution, or infinite solutions? Here's the quick way to tell.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_06.jpg
+D06-math,6,math,video,2026-11-27 15:45 EST,2026-11-27T20:45Z,SAT Math Tip #06: No solution vs. infinite solutions,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-06-no-solution-vs-infinite-solutions.mp4,"No solution, or infinite solutions? Here's the quick way to tell.
 
 1. Write both as y = mx + b
 2. Same slope, different b → no solution
@@ -391,8 +391,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D06-english,6,english,video,2026-11-27 19:45 EST,2026-11-28T00:45Z,SAT English Tip #06: Subject-verb agreement,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-06-subject-verb-agreement.mp4,"The SAT hides the subject to trick you. Here's how to find it.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-06-no-solution-vs-infinite-solutions.mp4
+D06-english,6,english,video,2026-11-27 19:45 EST,2026-11-28T00:45Z,SAT English Tip #06: Subject-verb agreement,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-06-subject-verb-agreement.mp4,"The SAT hides the subject to trick you. Here's how to find it.
 
 1. Is or are?
 2. Cross out the middle phrase
@@ -416,7 +416,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-06-subject-verb-agreement.mp4
 D07-post,7,post,photo,2026-11-28 07:45 EST,2026-11-28T12:45Z,There is no penalty for guessing on the SAT,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_07.jpg,"A surprising number of students still leave questions blank on the SAT.
 
 There is no penalty for a wrong answer. A blank scores zero; a guess has a chance of scoring. Every question should get an answer.
@@ -437,8 +437,8 @@ Small habits like this protect points that students have already earned.
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D07-math,7,math,video,2026-11-28 15:45 EST,2026-11-28T20:45Z,SAT Math Tip #07: The percent change trap,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-07-the-percent-change-trap.mp4,"Up twenty percent, then down twenty percent. Same price? Nope.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_07.jpg
+D07-math,7,math,video,2026-11-28 15:45 EST,2026-11-28T20:45Z,SAT Math Tip #07: The percent change trap,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-07-the-percent-change-trap.mp4,"Up twenty percent, then down twenty percent. Same price? Nope.
 
 1. Step 1: up 20%
 2. Step 2: down 20%
@@ -462,8 +462,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D07-english,7,english,video,2026-11-28 19:45 EST,2026-11-29T00:45Z,SAT English Tip #07: Its vs. it's,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-07-its-vs-it-s.mp4,"Its, or it's? Let's settle this forever.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-07-the-percent-change-trap.mp4
+D07-english,7,english,video,2026-11-28 19:45 EST,2026-11-29T00:45Z,SAT English Tip #07: Its vs. it's,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-07-its-vs-it-s.mp4,"Its, or it's? Let's settle this forever.
 
 1. It's = it is / it has
 2. Its = belongs to it
@@ -487,7 +487,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-07-its-vs-it-s.mp4
 D08-post,8,post,photo,2026-11-29 07:45 EST,2026-11-29T12:45Z,"Superscoring, explained for parents",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_08.jpg,"Superscoring is one of the most useful policies families do not know about.
 
 Many colleges take a student's highest Reading and Writing score and highest Math score, even if they came from different test dates, and combine them.
@@ -508,8 +508,8 @@ Policies vary by college, so check each one, but plan your test dates with this 
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D08-math,8,math,video,2026-11-29 15:45 EST,2026-11-29T20:45Z,SAT Math Tip #08: The discriminant,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-08-the-discriminant.mp4,"How many solutions does a quadratic have? One formula tells you.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_08.jpg
+D08-math,8,math,video,2026-11-29 15:45 EST,2026-11-29T20:45Z,SAT Math Tip #08: The discriminant,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-08-the-discriminant.mp4,"How many solutions does a quadratic have? One formula tells you.
 
 1. The discriminant
 2. Read the sign
@@ -533,8 +533,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D08-english,8,english,video,2026-11-29 19:45 EST,2026-11-30T00:45Z,SAT English Tip #08: Concise answers win,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-08-concise-answers-win.mp4,"On the SAT, the shortest answer often wins. Here's when.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-08-the-discriminant.mp4
+D08-english,8,english,video,2026-11-29 19:45 EST,2026-11-30T00:45Z,SAT English Tip #08: Concise answers win,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-08-concise-answers-win.mp4,"On the SAT, the shortest answer often wins. Here's when.
 
 1. All choices correct? Pick the concise one
 2. Cut the repetition
@@ -558,7 +558,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-08-concise-answers-win.mp4
 D09-post,9,post,photo,2026-11-30 07:45 EST,2026-11-30T12:45Z,When should SAT preparation start?,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_09.jpg,"The most common mistake we see is starting too late.
 
 Two to three months of steady preparation before a test date gives a student time to learn every topic properly, fix weak areas, and then build stamina with full timed tests. Cramming in the final week rarely moves scores in a lasting way.
@@ -575,8 +575,8 @@ For most students, the junior year of high school is the ideal time to begin, wi
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D09-math,9,math,video,2026-11-30 15:45 EST,2026-11-30T20:45Z,SAT Math Tip #09: Vertex form,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-09-vertex-form.mp4,"Here's how to find the vertex of a parabola in one second.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_09.jpg
+D09-math,9,math,video,2026-11-30 15:45 EST,2026-11-30T20:45Z,SAT Math Tip #09: Vertex form,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-09-vertex-form.mp4,"Here's how to find the vertex of a parabola in one second.
 
 1. Vertex form
 2. Vertex = (h, k)
@@ -600,8 +600,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D09-english,9,english,video,2026-11-30 19:45 EST,2026-12-01T00:45Z,SAT English Tip #09: Words in context,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-09-words-in-context.mp4,"Vocab questions don't need a huge vocabulary. Try this.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-09-vertex-form.mp4
+D09-english,9,english,video,2026-11-30 19:45 EST,2026-12-01T00:45Z,SAT English Tip #09: Words in context,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-09-words-in-context.mp4,"Vocab questions don't need a huge vocabulary. Try this.
 
 1. Step 1: cover the choices
 2. Fill in your own word
@@ -625,7 +625,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-09-words-in-context.mp4
 D10-post,10,post,photo,2026-12-01 07:45 EST,2026-12-01T12:45Z,Weekend classes protect the school week,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_10.jpg,"High school students already carry a heavy week of classes, homework, sports and activities.
 
 That is why our SAT groups meet only on weekends: two focused hours on Saturday and two on Sunday. The rhythm is predictable, it does not compete with school deadlines, and it builds steady weekly progress instead of last-minute cramming.
@@ -642,8 +642,8 @@ Between sessions, students can message their tutor on WhatsApp whenever they get
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D10-math,10,math,video,2026-12-01 15:45 EST,2026-12-01T20:45Z,SAT Math Tip #10: Sum and product of solutions,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-10-sum-and-product-of-solutions.mp4,"Find the sum of the solutions without solving anything.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_10.jpg
+D10-math,10,math,video,2026-12-01 15:45 EST,2026-12-01T20:45Z,SAT Math Tip #10: Sum and product of solutions,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-10-sum-and-product-of-solutions.mp4,"Find the sum of the solutions without solving anything.
 
 1. Standard form
 2. The shortcut
@@ -667,8 +667,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D10-english,10,english,video,2026-12-01 19:45 EST,2026-12-02T00:45Z,SAT English Tip #10: Student notes questions,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-10-student-notes-questions.mp4,"There's one SAT question type where you can almost skip the passage.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-10-sum-and-product-of-solutions.mp4
+D10-english,10,english,video,2026-12-01 19:45 EST,2026-12-02T00:45Z,SAT English Tip #10: Student notes questions,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-10-student-notes-questions.mp4,"There's one SAT question type where you can almost skip the passage.
 
 1. The student notes question
 2. Read the goal first
@@ -692,7 +692,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-10-student-notes-questions.mp4
 D11-post,11,post,photo,2026-12-02 07:45 EST,2026-12-02T12:45Z,Reviewing mistakes beats taking more practice tests,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_11.jpg,"Practice tests are useful, but taking test after test without reviewing them is one of the slowest ways to improve.
 
 Scores rise when a student understands why each mistake happened: a content gap, a misread question, or a timing problem. Each needs a different fix.
@@ -709,8 +709,8 @@ In our classes, every practice set is followed by a review of the errors, groupe
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D11-math,11,math,video,2026-12-02 15:45 EST,2026-12-02T20:45Z,SAT Math Tip #11: Growth or decay,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-11-growth-or-decay.mp4,"Spot exponential growth or decay instantly on the SAT.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_11.jpg
+D11-math,11,math,video,2026-12-02 15:45 EST,2026-12-02T20:45Z,SAT Math Tip #11: Growth or decay,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-11-growth-or-decay.mp4,"Spot exponential growth or decay instantly on the SAT.
 
 1. The model
 2. b > 1 → growth
@@ -734,8 +734,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D11-english,11,english,video,2026-12-02 19:45 EST,2026-12-03T00:45Z,SAT English Tip #11: Main idea traps,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-11-main-idea-traps.mp4,"Main idea questions have two traps. Learn to spot both.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-11-growth-or-decay.mp4
+D11-english,11,english,video,2026-12-02 19:45 EST,2026-12-03T00:45Z,SAT English Tip #11: Main idea traps,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-11-main-idea-traps.mp4,"Main idea questions have two traps. Learn to spot both.
 
 1. Trap 1: too narrow
 2. Trap 2: too broad
@@ -759,7 +759,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-11-main-idea-traps.mp4
 D12-post,12,post,photo,2026-12-03 07:45 EST,2026-12-03T12:45Z,How parents can help with SAT prep without nagging,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_12.jpg,"Parents often ask us how they can help without adding pressure.
 
 A few things work well. Agree on a fixed weekly schedule so study time is not a daily negotiation. Ask what your child learned this week rather than only asking for scores. Notice and celebrate improvement. And in the final week, protect sleep above extra practice.
@@ -776,8 +776,8 @@ Students do their best work when they feel supported rather than watched.
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D12-math,12,math,video,2026-12-03 15:45 EST,2026-12-03T20:45Z,SAT Math Tip #12: Circle equations,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-12-circle-equations.mp4,"Circle equations look scary. They're really not.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_12.jpg
+D12-math,12,math,video,2026-12-03 15:45 EST,2026-12-03T20:45Z,SAT Math Tip #12: Circle equations,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-12-circle-equations.mp4,"Circle equations look scary. They're really not.
 
 1. Standard form
 2. Read it off
@@ -801,8 +801,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D12-english,12,english,video,2026-12-03 19:45 EST,2026-12-04T00:45Z,SAT English Tip #12: Text 1 vs. Text 2,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-12-text-1-vs-text-2.mp4,"Two passages, one question. Here's the fastest approach.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-12-circle-equations.mp4
+D12-english,12,english,video,2026-12-03 19:45 EST,2026-12-04T00:45Z,SAT English Tip #12: Text 1 vs. Text 2,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-12-text-1-vs-text-2.mp4,"Two passages, one question. Here's the fastest approach.
 
 1. Summarize each in 5 words
 2. Find the disagreement
@@ -826,7 +826,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-12-text-1-vs-text-2.mp4
 D13-post,13,post,photo,2026-12-04 07:45 EST,2026-12-04T12:45Z,What happens in our free SAT demo class,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_13.jpg,"We offer every family a free demo class before they pay anything.
 
 The demo is a real teaching session, not a sales call. The student meets the tutor, works through a genuine SAT topic, and experiences the pace and style of our small groups.
@@ -843,8 +843,8 @@ If it is a good fit, the student joins a group of up to five. If not, there is n
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D13-math,13,math,video,2026-12-04 15:45 EST,2026-12-04T20:45Z,SAT Math Tip #13: Special right triangles,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-13-special-right-triangles.mp4,"Two triangles that save you tons of time on the SAT.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_13.jpg
+D13-math,13,math,video,2026-12-04 15:45 EST,2026-12-04T20:45Z,SAT Math Tip #13: Special right triangles,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-13-special-right-triangles.mp4,"Two triangles that save you tons of time on the SAT.
 
 1. Triangle 1
 2. Triangle 2
@@ -868,8 +868,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D13-english,13,english,video,2026-12-04 19:45 EST,2026-12-05T00:45Z,SAT English Tip #13: Choosing the right quote,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-13-choosing-the-right-quote.mp4,"Here's how to pick the right quote on the SAT, every time.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-13-special-right-triangles.mp4
+D13-english,13,english,video,2026-12-04 19:45 EST,2026-12-05T00:45Z,SAT English Tip #13: Choosing the right quote,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-13-choosing-the-right-quote.mp4,"Here's how to pick the right quote on the SAT, every time.
 
 1. A claim → which quote proves it?
 2. Break the claim into parts
@@ -893,7 +893,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-13-choosing-the-right-quote.mp4
 D14-post,14,post,photo,2026-12-05 07:45 EST,2026-12-05T12:45Z,Calculators are allowed on all of SAT Math now,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_14.jpg,"Parents who remember the older SAT often assume there is still a no-calculator section. On the Digital SAT, there is not.
 
 A calculator is allowed for the whole Math section, and the Bluebook app has a built-in Desmos graphing calculator. Used well, it can solve systems of equations, find intersections, and check answers in seconds.
@@ -910,8 +910,8 @@ We teach students when the calculator saves time and when mental math is faster.
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D14-math,14,math,video,2026-12-05 15:45 EST,2026-12-05T20:45Z,SAT Math Tip #14: A free trig point,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-14-a-free-trig-point.mp4,"This trig fact shows up on the SAT, and it's basically a free point.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_14.jpg
+D14-math,14,math,video,2026-12-05 15:45 EST,2026-12-05T20:45Z,SAT Math Tip #14: A free trig point,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-14-a-free-trig-point.mp4,"This trig fact shows up on the SAT, and it's basically a free point.
 
 1. SOH CAH TOA
 2. The free point
@@ -935,8 +935,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D14-english,14,english,video,2026-12-05 19:45 EST,2026-12-06T00:45Z,SAT English Tip #14: Graphs in the English section,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-14-graphs-in-the-english-section.mp4,"Graph questions in the English section? Don't panic.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-14-a-free-trig-point.mp4
+D14-english,14,english,video,2026-12-05 19:45 EST,2026-12-06T00:45Z,SAT English Tip #14: Graphs in the English section,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-14-graphs-in-the-english-section.mp4,"Graph questions in the English section? Don't panic.
 
 1. Title. Axes. Labels. First.
 2. The answer needs both
@@ -960,7 +960,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-14-graphs-in-the-english-section.mp4
 D15-post,15,post,photo,2026-12-06 07:45 EST,2026-12-06T12:45Z,Short passages in Reading and Writing,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_15.jpg,"One of the biggest changes in the Digital SAT is in Reading and Writing.
 
 Instead of long passages followed by many questions, each question now comes with its own short passage. That rewards focused, precise reading over endurance.
@@ -977,8 +977,8 @@ Students who struggled with long passages often find this format more manageable
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D15-math,15,math,video,2026-12-06 15:45 EST,2026-12-06T20:45Z,SAT Math Tip #15: Outliers: mean vs. median,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-15-outliers-mean-vs-median.mp4,"Remove an outlier. What happens to the mean and the median?
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_15.jpg
+D15-math,15,math,video,2026-12-06 15:45 EST,2026-12-06T20:45Z,SAT Math Tip #15: Outliers: mean vs. median,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-15-outliers-mean-vs-median.mp4,"Remove an outlier. What happens to the mean and the median?
 
 1. Mean: moves a lot
 2. Median: barely moves
@@ -1002,8 +1002,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D15-english,15,english,video,2026-12-06 19:45 EST,2026-12-07T00:45Z,SAT English Tip #15: Extreme-word red flags,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-15-extreme-word-red-flags.mp4,"These words should make you suspicious on the SAT.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-15-outliers-mean-vs-median.mp4
+D15-english,15,english,video,2026-12-06 19:45 EST,2026-12-07T00:45Z,SAT English Tip #15: Extreme-word red flags,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-15-extreme-word-red-flags.mp4,"These words should make you suspicious on the SAT.
 
 1. Watch out for:
 2. SAT passages are balanced
@@ -1027,7 +1027,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-15-extreme-word-red-flags.mp4
 D16-post,16,post,photo,2026-12-07 07:45 EST,2026-12-07T12:45Z,Our topic-by-topic teaching method,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_16.jpg,"We teach the SAT topic by topic rather than test by test.
 
 Each topic follows the same cycle. The tutor teaches it live. Students practice SAT-style questions on that topic. Then we review every mistake until the topic is secure.
@@ -1044,8 +1044,8 @@ This turns a large, intimidating exam into a sequence of manageable steps, and i
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D16-math,16,math,video,2026-12-07 15:45 EST,2026-12-07T20:45Z,SAT Math Tip #16: Typing your own answer,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-16-typing-your-own-answer.mp4,"Typing your own answer on SAT math? Know these rules.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_16.jpg
+D16-math,16,math,video,2026-12-07 15:45 EST,2026-12-07T20:45Z,SAT Math Tip #16: Typing your own answer,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-16-typing-your-own-answer.mp4,"Typing your own answer on SAT math? Know these rules.
 
 1. No choices. You type it.
 2. Negatives and fractions are OK
@@ -1069,8 +1069,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D16-english,16,english,video,2026-12-07 19:45 EST,2026-12-08T00:45Z,SAT English Tip #16: Possessive apostrophes,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-16-possessive-apostrophes.mp4,"Student's, or students'? Here's the one rule.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-16-typing-your-own-answer.mp4
+D16-english,16,english,video,2026-12-07 19:45 EST,2026-12-08T00:45Z,SAT English Tip #16: Possessive apostrophes,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-16-possessive-apostrophes.mp4,"Student's, or students'? Here's the one rule.
 
 1. One owner → 's
 2. Plural ending in s → s'
@@ -1094,7 +1094,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-16-possessive-apostrophes.mp4
 D17-post,17,post,photo,2026-12-08 07:45 EST,2026-12-08T12:45Z,24-hour WhatsApp support between classes,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_17.jpg,"Students rarely get stuck during class. They get stuck at 11 at night, halfway through a practice set.
 
 Every XPM student has 24-hour WhatsApp support. They can send a photo of the problem and get help working through it, instead of waiting until the next session or giving up.
@@ -1111,8 +1111,8 @@ Small moments of help, at the right time, keep momentum going.
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D17-math,17,math,video,2026-12-08 15:45 EST,2026-12-08T20:45Z,SAT Math Tip #17: Answer the right question,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-17-answer-the-right-question.mp4,"You solved for x. But the question didn't ask for x.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_17.jpg
+D17-math,17,math,video,2026-12-08 15:45 EST,2026-12-08T20:45Z,SAT Math Tip #17: Answer the right question,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-17-answer-the-right-question.mp4,"You solved for x. But the question didn't ask for x.
 
 1. The #1 careless mistake
 2. Find what they actually asked
@@ -1136,8 +1136,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D17-english,17,english,video,2026-12-08 19:45 EST,2026-12-09T00:45Z,SAT English Tip #17: Pronoun agreement,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-17-pronoun-agreement.mp4,"On the SAT, a company is not a they.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-17-answer-the-right-question.mp4
+D17-english,17,english,video,2026-12-08 19:45 EST,2026-12-09T00:45Z,SAT English Tip #17: Pronoun agreement,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-17-pronoun-agreement.mp4,"On the SAT, a company is not a they.
 
 1. A pronoun must match its noun
 2. Company = it
@@ -1161,7 +1161,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-17-pronoun-agreement.mp4
 D18-post,18,post,photo,2026-12-09 07:45 EST,2026-12-09T12:45Z,Three signs SAT prep is not working,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_18.jpg,"Effort does not always equal progress. Three warning signs are worth watching for.
 
 First, practice scores that stay flat across several tests. Second, the same types of mistakes appearing again and again. Third, practice sessions that end without any review of errors.
@@ -1178,8 +1178,8 @@ Any of these usually means the preparation needs to change from volume to precis
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D18-math,18,math,video,2026-12-09 15:45 EST,2026-12-09T20:45Z,SAT Math Tip #18: Unit conversions,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-18-unit-conversions.mp4,"Unit conversion questions? Use the chain method.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_18.jpg
+D18-math,18,math,video,2026-12-09 15:45 EST,2026-12-09T20:45Z,SAT Math Tip #18: Unit conversions,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-18-unit-conversions.mp4,"Unit conversion questions? Use the chain method.
 
 1. Make the units cancel
 2. Example
@@ -1203,8 +1203,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D18-english,18,english,video,2026-12-09 19:45 EST,2026-12-10T00:45Z,SAT English Tip #18: Dangling modifiers,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-18-dangling-modifiers.mp4,"This sentence is wrong, and most students can't see why.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-18-unit-conversions.mp4
+D18-english,18,english,video,2026-12-09 19:45 EST,2026-12-10T00:45Z,SAT English Tip #18: Dangling modifiers,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-18-dangling-modifiers.mp4,"This sentence is wrong, and most students can't see why.
 
 1. Who's walking?
 2. The doer goes right after the comma
@@ -1228,7 +1228,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-18-dangling-modifiers.mp4
 D19-post,19,post,photo,2026-12-10 07:45 EST,2026-12-10T12:45Z,What is a good SAT score?,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_19.jpg,"Parents often ask what a good SAT score is. The honest answer is that it depends on where your child is applying.
 
 Look up the middle 50% SAT range for each college on your list. Scoring in or above that range makes the score a strength rather than a question mark.
@@ -1245,8 +1245,8 @@ Once you know the target, preparation becomes concrete: we can map the gap betwe
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D19-math,19,math,video,2026-12-10 15:45 EST,2026-12-10T20:45Z,SAT Math Tip #19: Absolute value equations,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-19-absolute-value-equations.mp4,"Absolute value equations have a trap. There are two answers.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_19.jpg
+D19-math,19,math,video,2026-12-10 15:45 EST,2026-12-10T20:45Z,SAT Math Tip #19: Absolute value equations,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-19-absolute-value-equations.mp4,"Absolute value equations have a trap. There are two answers.
 
 1. Distance from zero
 2. Split into 2 cases
@@ -1270,8 +1270,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D19-english,19,english,video,2026-12-10 19:45 EST,2026-12-11T00:45Z,"SAT English Tip #19: Commas, dashes, parentheses",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-19-commas-dashes-parentheses.mp4,"Commas, dashes, and parentheses all follow one big rule.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-19-absolute-value-equations.mp4
+D19-english,19,english,video,2026-12-10 19:45 EST,2026-12-11T00:45Z,"SAT English Tip #19: Commas, dashes, parentheses",https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-19-commas-dashes-parentheses.mp4,"Commas, dashes, and parentheses all follow one big rule.
 
 1. Extra info = a matching pair
 2. Never mix them
@@ -1295,7 +1295,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-19-commas-dashes-parentheses.mp4
 D20-post,20,post,photo,2026-12-11 07:45 EST,2026-12-11T12:45Z,SAT scores and merit scholarships,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_20.jpg,"SAT scores matter for more than admission.
 
 Many colleges and scholarship programs consider test scores when awarding merit aid. For families, a stronger score can mean real savings over four years of tuition.
@@ -1312,8 +1312,8 @@ That makes SAT preparation one of the more practical investments in a student's 
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D20-math,20,math,video,2026-12-11 15:45 EST,2026-12-11T20:45Z,SAT Math Tip #20: Function notation,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-20-function-notation.mp4,"f of x confuses so many students. It really shouldn't.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_20.jpg
+D20-math,20,math,video,2026-12-11 15:45 EST,2026-12-11T20:45Z,SAT Math Tip #20: Function notation,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-20-function-notation.mp4,"f of x confuses so many students. It really shouldn't.
 
 1. It's just a rule
 2. Plug it in
@@ -1337,8 +1337,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D20-english,20,english,video,2026-12-11 19:45 EST,2026-12-12T00:45Z,SAT English Tip #20: Verb tense,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-20-verb-tense.mp4,"Here's how to never miss a verb tense question.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-20-function-notation.mp4
+D20-english,20,english,video,2026-12-11 19:45 EST,2026-12-12T00:45Z,SAT English Tip #20: Verb tense,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-20-verb-tense.mp4,"Here's how to never miss a verb tense question.
 
 1. Hunt for time clues
 2. Match the surrounding verbs
@@ -1362,7 +1362,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-20-verb-tense.mp4
 D21-post,21,post,photo,2026-12-12 07:45 EST,2026-12-12T12:45Z,Why I started XPM Tutors,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_21.jpg,"I studied geophysics, took computer science alongside it, and built xpmtutors.com myself, from the design to the back end.
 
 What drove me to start XPM Tutors was simple. Strong teaching changes students' outcomes, but in many places it is priced like a luxury.
@@ -1379,8 +1379,8 @@ Our approach is to keep groups small, keep the teaching rigorous and topic-focus
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D21-math,21,math,video,2026-12-12 15:45 EST,2026-12-12T20:45Z,SAT Math Tip #21: Two-way table probability,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-21-two-way-table-probability.mp4,"Probability from a table? Everything depends on one word.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_21.jpg
+D21-math,21,math,video,2026-12-12 15:45 EST,2026-12-12T20:45Z,SAT Math Tip #21: Two-way table probability,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-21-two-way-table-probability.mp4,"Probability from a table? Everything depends on one word.
 
 1. Two-way tables
 2. ""Given"" = your denominator
@@ -1404,8 +1404,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D21-english,21,english,video,2026-12-12 19:45 EST,2026-12-13T00:45Z,SAT English Tip #21: English time strategy,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-21-english-time-strategy.mp4,"You get about seventy seconds per question in SAT English. Use them wisely.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-21-two-way-table-probability.mp4
+D21-english,21,english,video,2026-12-12 19:45 EST,2026-12-13T00:45Z,SAT English Tip #21: English time strategy,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-21-english-time-strategy.mp4,"You get about seventy seconds per question in SAT English. Use them wisely.
 
 1. Do the math
 2. Stuck? Guess. Mark for Review. Move on.
@@ -1429,7 +1429,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-21-english-time-strategy.mp4
 D22-post,22,post,photo,2026-12-13 07:45 EST,2026-12-13T12:45Z,Every tutor is document-verified,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_22.jpg,"Families are trusting us with their children's time and results, so we take tutor selection seriously.
 
 Every XPM tutor's documents and credentials are verified before they teach a single class. We also observe teaching quality, because qualifications alone do not make a good teacher.
@@ -1446,8 +1446,8 @@ Parents are always welcome to ask about the tutor who will teach their child's g
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D22-math,22,math,video,2026-12-13 15:45 EST,2026-12-13T20:45Z,SAT Math Tip #22: Exponent rules,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-22-exponent-rules.mp4,"Three exponent rules that solve most SAT exponent questions.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_22.jpg
+D22-math,22,math,video,2026-12-13 15:45 EST,2026-12-13T20:45Z,SAT Math Tip #22: Exponent rules,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-22-exponent-rules.mp4,"Three exponent rules that solve most SAT exponent questions.
 
 1. Rule 1: add
 2. Rule 2: multiply
@@ -1471,8 +1471,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D22-english,22,english,video,2026-12-13 19:45 EST,2026-12-14T00:45Z,SAT English Tip #22: Module 1 matters most,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-22-module-1-matters-most.mp4,"The first module of the SAT matters more than you think.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-22-exponent-rules.mp4
+D22-english,22,english,video,2026-12-13 19:45 EST,2026-12-14T00:45Z,SAT English Tip #22: Module 1 matters most,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-22-module-1-matters-most.mp4,"The first module of the SAT matters more than you think.
 
 1. The SAT is adaptive
 2. Module 1 sets the path
@@ -1496,7 +1496,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-22-module-1-matters-most.mp4
 D23-post,23,post,photo,2026-12-14 07:45 EST,2026-12-14T12:45Z,SAT test day checklist,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_23.jpg,"A calm test day starts the night before.
 
 Make sure Bluebook is installed and updated on the testing device, the device is fully charged and the charger is packed, and the admission ticket and a valid photo ID are ready. Bring pencils or pens for scratch work.
@@ -1513,8 +1513,8 @@ Then the most important item: a full night of sleep. No amount of last-minute re
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D23-math,23,math,video,2026-12-14 15:45 EST,2026-12-14T20:45Z,SAT Math Tip #23: Equivalent expressions,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-23-equivalent-expressions.mp4,"Which expression is equivalent? Let Desmos tell you.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_23.jpg
+D23-math,23,math,video,2026-12-14 15:45 EST,2026-12-14T20:45Z,SAT Math Tip #23: Equivalent expressions,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-23-equivalent-expressions.mp4,"Which expression is equivalent? Let Desmos tell you.
 
 1. Graph the original
 2. Graph each choice
@@ -1538,8 +1538,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D23-english,23,english,video,2026-12-14 19:45 EST,2026-12-15T00:45Z,SAT English Tip #23: Never leave a blank,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-23-never-leave-a-blank.mp4,"Never, ever leave an SAT question blank.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-23-equivalent-expressions.mp4
+D23-english,23,english,video,2026-12-14 19:45 EST,2026-12-15T00:45Z,SAT English Tip #23: Never leave a blank,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-23-never-leave-a-blank.mp4,"Never, ever leave an SAT question blank.
 
 1. Wrong-answer penalty: zero
 2. Blank = 0% chance. Guess = a real chance.
@@ -1563,7 +1563,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-23-never-leave-a-blank.mp4
 D24-post,24,post,photo,2026-12-15 07:45 EST,2026-12-15T12:45Z,A junior-year SAT timeline,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_24.jpg,"For most students, junior year is SAT year.
 
 A practical timeline: start preparation in the fall with a diagnostic test and topic-by-topic teaching. Use winter for targeted practice and full timed tests. Sit the first official test in spring, leaving time for a focused retake if needed.
@@ -1580,8 +1580,8 @@ Starting early takes the pressure off senior year, when applications demand atte
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D24-math,24,math,video,2026-12-15 15:45 EST,2026-12-15T20:45Z,SAT Math Tip #24: Parallel and perpendicular lines,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-24-parallel-and-perpendicular-lines.mp4,"Parallel and perpendicular lines. Two rules, that's it.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_24.jpg
+D24-math,24,math,video,2026-12-15 15:45 EST,2026-12-15T20:45Z,SAT Math Tip #24: Parallel and perpendicular lines,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-24-parallel-and-perpendicular-lines.mp4,"Parallel and perpendicular lines. Two rules, that's it.
 
 1. Parallel → same slope
 2. Perpendicular → flip + change sign
@@ -1605,8 +1605,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D24-english,24,english,video,2026-12-15 19:45 EST,2026-12-16T00:45Z,SAT English Tip #24: Logical completion questions,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-24-logical-completion-questions.mp4,"Most logically completes the text. Here's how to crack it.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-24-parallel-and-perpendicular-lines.mp4
+D24-english,24,english,video,2026-12-15 19:45 EST,2026-12-16T00:45Z,SAT English Tip #24: Logical completion questions,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-24-logical-completion-questions.mp4,"Most logically completes the text. Here's how to crack it.
 
 1. Follow the logic of the passage
 2. No outside knowledge
@@ -1630,7 +1630,7 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-24-logical-completion-questions.mp4
 D25-post,25,post,photo,2026-12-16 07:45 EST,2026-12-16T12:45Z,Common SAT Math traps,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_25.jpg,"Many lost points in SAT Math are not content gaps. They are traps.
 
 The most common: solving for x when the question asks for something else, ignoring a condition such as x is negative, reversing a percentage incorrectly after a discount, and losing track of units.
@@ -1647,8 +1647,8 @@ The fix is a habit: before choosing an answer, reread exactly what the question 
 
 Free demo class: xpmtutors.com/us | WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #CollegeAdmissions"
-D25-math,25,math,video,2026-12-16 15:45 EST,2026-12-16T20:45Z,SAT Math Tip #25: Math time strategy,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-25-math-time-strategy.mp4,"You get about ninety-five seconds per SAT math question.
+#SATprep #DigitalSAT #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat-content-kit/posts_jpg/post_25.jpg
+D25-math,25,math,video,2026-12-16 15:45 EST,2026-12-16T20:45Z,SAT Math Tip #25: Math time strategy,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-Math-25-math-time-strategy.mp4,"You get about ninety-five seconds per SAT math question.
 
 1. Do the math
 2. Easier ones come first
@@ -1672,8 +1672,8 @@ Which step was new to you? Drop a 1, 2 or 3 below.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATmath #CollegeAdmissions"
-D25-english,25,english,video,2026-12-16 19:45 EST,2026-12-17T00:45Z,SAT English Tip #25: The answer eliminator,https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-25-the-answer-eliminator.mp4,"There's one button in the SAT app most students forget to use.
+#SATprep #DigitalSAT #SATmath #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-Math-25-math-time-strategy.mp4
+D25-english,25,english,video,2026-12-16 19:45 EST,2026-12-17T00:45Z,SAT English Tip #25: The answer eliminator,https://cdn.jsdelivr.net/gh/zebester7/xpm-posters@49347882d392afeec5b7f409f8453249fa599b67/sat/SAT-English-25-the-answer-eliminator.mp4,"There's one button in the SAT app most students forget to use.
 
 1. Bluebook's answer eliminator
 2. Cross out what's wrong
@@ -1697,4 +1697,4 @@ Did you know this rule? Comment YES or NO.
 Online SAT prep for US students: small groups (max 5), live weekend classes, free demo class.
 Book at xpmtutors.com/us or WhatsApp +92 300 9508592
 
-#SATprep #DigitalSAT #SATreading #CollegeAdmissions"
+#SATprep #DigitalSAT #SATreading #CollegeAdmissions",https://raw.githubusercontent.com/zebester7/xpm-posters/main/sat/SAT-English-25-the-answer-eliminator.mp4
