@@ -1,8 +1,9 @@
 # XPM Tutors – Subject reels posting schedule (Instagram + Facebook)
 
-60 educational reels (Chemistry, Physics, Maths; IGCSE, O Level, A Level), 30 days from 23 Nov to 22 Dec 2026.
-Two reels a day, Pakistan time (Asia/Karachi): **4:37 PM** and **8:37 PM** (3:37 / 7:37 PM UAE, 11:37 AM / 3:37 PM UK).
-Order rotates Chemistry → Physics → Maths: C1, P1, M1, C2, P2, M2, …
+60 educational reels (Chemistry, Physics, Maths; IGCSE, O Level, A Level), 20 days from 23 Nov to 12 Dec 2026.
+Three reels a day, one per subject, Pakistan time (Asia/Karachi):
+**Chemistry 4:37 PM**, **Physics 6:37 PM**, **Maths 8:37 PM** (UAE: 3:37 / 5:37 / 7:37 PM; UK: 11:37 AM / 1:37 / 3:37 PM).
+Day N posts CN, PN and MN.
 
 Each reel goes to both:
 - Instagram Business account **XPM Tutors** (id 17841480452221517), as a Reel shared to the feed.
